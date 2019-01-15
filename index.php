@@ -1,7 +1,7 @@
 <HTML>
 <BODY>
 <?php
-switch(@$_REQUEST["action"]) 
+switch(@$_REQUEST["actionnnnnnnnnnnn"]) 
     	{ 
 		case "ajouter":
 			if(empty($_REQUEST["nom"]))
