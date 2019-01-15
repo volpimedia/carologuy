@@ -3,7 +3,7 @@
 <?php
 switch(@$_REQUEST["actionnnnnnnnnnnn"]) 
     	{ 
-		case "ajouter":
+		case "ajouterrrrrrrrrrrrrrrrrrr":
 			if(empty($_REQUEST["nom"]))
 				echo "Champ vide !!!<br /><br /><a href='index.php'>Cliquez ici pour revenir</a>" ;
 			else{
