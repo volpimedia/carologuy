@@ -19,8 +19,14 @@ switch(@$_REQUEST["actionnnnnnnnnnnn"])
 
 				je commence à comprendre
 
+<<<<<<< HEAD
 
 				branche de Guy ChNGER À 15H45" ;
+=======
+				brANCHE cAROL
+
+				fAIT UN CHANGEMENT AVEC 15H48 ORDI DE cAROL" ;
+>>>>>>> ffee111f64554ce3f9f66989ef0e1ca3400ca37d
 			}
         break;
 			
