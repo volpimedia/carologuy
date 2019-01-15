@@ -20,6 +20,7 @@ switch(@$_REQUEST["actionnnnnnnnnnnn"])
 				je commence à comprendre
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 				branche de Guy ChNGER À 15H45" ;
 =======
@@ -27,6 +28,14 @@ switch(@$_REQUEST["actionnnnnnnnnnnn"])
 
 				fAIT UN CHANGEMENT AVEC 15H48 ORDI DE cAROL" ;
 >>>>>>> ffee111f64554ce3f9f66989ef0e1ca3400ca37d
+=======
+
+				branche de Guy ChNGER À 15H45fAIT AUTRE CHOSE À 15H47
+
+
+
+				fAIT UN CHANGMENT  DANS TESTGUY À 15H54 " ;
+>>>>>>> test-guy
 			}
         break;
 			
