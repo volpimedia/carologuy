@@ -12,7 +12,12 @@ switch(@$_REQUEST["actionnnnnnnnnnnn"])
 				fwrite($fd,"\r\n".$nom);
 				fclose ($fd);
 				echo "Votre &eacute;l&eacute;ment est ajout&eacute;!";
-				echo "<br /><br /><a href='index.php'>Cliquez ici pour revenir</a>" ;
+				echo "<br /><br /><a href='index.php'>Cliquez ici pour revenir</a>
+
+
+
+
+				je commence à comprendre" ;
 			}
         break;
 			
