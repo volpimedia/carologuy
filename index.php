@@ -5,7 +5,7 @@ switch(@$_REQUEST["actionnnnnnnnnnnn"])
     	{ 
 		case "ajouterrrrrrrrrrrrrrrrrrr":
 			if(empty($_REQUEST["nom"]))
-				echo "Champ vide !!!<br /><br /><a href='index.php'>Cliquez ici pour revenir</a>" ;
+				echo "Champ vide !!!<br /><br /><a href='index.php'>Cliquezxzzzzzzzzz ici pour revenir</a>" ;
 			else{
 				$nom=htmlentities(strip_tags($_REQUEST["nom"]));
 				$fd = fopen("inscrip.txt", "a");
